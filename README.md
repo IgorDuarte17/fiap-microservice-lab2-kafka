@@ -1,4 +1,4 @@
-# FIAP - Microservices (Hands-On) | LAB 2
+# FIAP - Microservices (Hands-On) | LAB 2 Kafka
 
 ---
 
